@@ -15,7 +15,7 @@ Use the command .079 help into the console to see available commands!
 ## Abilites
 
 ## A1
-Teleport to an SCP.
+Teleport to an SCP. `Currently not working`
 
 ## A2
 Activate a memetic kill agent in a room. Takes b079_a2_timer seconds to charge and lasts for b079_a2_gas_timer seconds.
