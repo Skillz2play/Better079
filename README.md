@@ -1,4 +1,4 @@
-### Better079
+# Better079
 
 Better079 is a plugin which adds a few new abilites to 079! Original plugin by [Virtual](https://github.com/VirtualBrightPlayz)
 
@@ -14,16 +14,16 @@ Use the command .079 help into the console to see available commands!
 
 ## Abilites
 
-# A1
+## A1
 Teleport to an SCP.
 
-# A2
+## A2
 Activate a memetic kill agent in a room. Takes b079_a2_timer seconds to charge and lasts for b079_a2_gas_timer seconds.
 
-# A3
+## A3
 Turn off facility lighting for a specific amount of time (b079_a3_timer seconds).
 
-# A4
+## A4
 Flash all who are looking at the camera with a flashbang.
 
 ## Configs
