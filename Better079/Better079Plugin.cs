@@ -18,7 +18,7 @@ namespace Better079
         public override string Name => "Better079";
         public override string Author => "Skillz2play";
         public override Version Version => new Version(1, 0, 0);
-        public override Version RequiredExiledVersion => new Version(2, 11, 0);
+        public override Version RequiredExiledVersion => new Version(2, 13, 0);
         public PluginEvents PLEV;
 
         public override void OnDisabled()
